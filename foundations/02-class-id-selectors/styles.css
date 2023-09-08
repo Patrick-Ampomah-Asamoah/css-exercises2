@@ -1,0 +1,18 @@
+.to {
+    color: pink;
+    font-family: Verdana, sans-serif;
+    background-color: black;
+}
+#again {
+    color: blue;
+    font-size: 36px;
+}
+.me {
+    font-size: 24px;
+}
+#time {
+    color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: black;
+}

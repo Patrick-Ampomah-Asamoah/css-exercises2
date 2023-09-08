@@ -1,0 +1,12 @@
+.hi,
+.he {
+    font-size: 28px;
+    font-family: helvetica,"Times New Roman",sans-serif;
+}
+.he {
+    background-color: yellow;
+}
+.hi {
+    background-color: black;
+    color: white;
+}
